@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">Data Scientist / DevOps / ...</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syjoeee" alt="syjoeee" /></a> </p>
-
 - 🔭 I worked on [Ubisoft](https://www.ubisoft.com/en-us/company/careers/locations/montreal/ubisoft-canada) in 2020.
 - 🌱 I’m currently learning [IBM](https://www.coursera.org/professional-certificates/ibm-data-science).
 
