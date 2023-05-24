@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">Data Scientist / DevOps / ...</h3>
 
-- 🔭 I worked on [Ubisoft](https://www.ubisoft.com/en-us/company/careers/locations/montreal/ubisoft-canada) in 2020.
+- 🔭 I was working with alumni on [Ubisoft](https://www.ubisoft.com/en-us/company/careers/locations/montreal/ubisoft-canada) in 2020.
 - 🌱 I’m currently learning [IBM](https://www.coursera.org/professional-certificates/ibm-data-science).
 
 - 📫 How to reach me **csy5501@gmail.com**
