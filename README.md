@@ -5,8 +5,7 @@
 <h3 align="center">Data Scientist / DevOps / ...</h3>
 
 - 🔭 I was working with alumni on [Ubisoft](https://www.ubisoft.com/en-us/company/careers/locations/montreal/ubisoft-canada) in 2020.
-- 🌱 I’m currently learning [IBM](https://www.coursera.org/professional-certificates/ibm-data-science).
-
+- 🌱 I’m currently learning algorithm with using [IBM](https://www.coursera.org/professional-certificates/ibm-data-science) Cloud sevice.
 - 📫 How to reach me **csy5501@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
