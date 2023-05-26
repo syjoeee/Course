@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi 👋, I'm Ryan</h1>
+<h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">Data Scientist / DevOps / ...</h3>
 
-- 🔭 I was working with alumni on [Ubisoft](https://www.ubisoft.com/en-us/company/careers/locations/montreal/ubisoft-canada) in 2020.
+- 🔭
 - 🌱 I’m currently learning algorithm with using [IBM](https://www.coursera.org/professional-certificates/ibm-data-science) Cloud sevice.
 - 📫 How to reach me **csy5501@gmail.com**
 
