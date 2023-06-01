@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm 조성열</h1>
 <h3 align="center">Data Scientist / DevOps / ...</h3>
 
-- 🔭 Montréal -> McGill univ -> Seoul -> 
+- 🔭 Canada -> Montréal -> McGill univ -> Seoul -> 
 - 🦁 멋쟁이사자 6기 진행중
 - 📫 How to reach me **csy5501@gmail.com**
 
