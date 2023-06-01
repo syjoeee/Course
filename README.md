@@ -4,8 +4,7 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">Data Scientist / DevOps / ...</h3>
 
-- 🔭 McGill univ -> 
-- 🌱 I’m currently learning algorithm with using [IBM](https://www.coursera.org/professional-certificates/ibm-data-science) Cloud sevice.
+- 🔭 Montréal -> McGill univ -> Seoul -> 
 - 🦁 멋쟁이사자 6기 진행중
 - 📫 How to reach me **csy5501@gmail.com**
 
