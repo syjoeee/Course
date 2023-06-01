@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi 👋, I'm Joe</h1>
+<h1 align="center">Hi 👋, I'm 조성열</h1>
 <h3 align="center">Data Scientist / DevOps / ...</h3>
 
 - 🔭 Montréal -> McGill univ -> Seoul -> 
