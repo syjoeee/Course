@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi 👋, I'm Joe</h1>
+<h1 align="center">Hi 👋, I'm Ryan Joe</h1>
 <h3 align="center">Data Scientist / DevOps / ...</h3>
 
-- 🔭 
+- 🔭 Montréal -> Seoul
 - 🦁 멋쟁이사자 6기 진행중
 - 📫 How to reach me **csy5501@gmail.com**
 
