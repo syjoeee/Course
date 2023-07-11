@@ -3,9 +3,7 @@ name: Generate snake animation
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
     - main
@@ -15,13 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v2
+      - name: Set up SSH key
+        uses: webfactory/ssh-agent@v0.5.1
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
-
-
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+      - name: generate snake.svg
+        run: |
+          git clone git@github.com:${{ github.repository_owner }}/syjoeee.git
+          cd syjoeee
+          npx snake-cli
+          mv snake.svg dist/
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
