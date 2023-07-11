@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ryan+Joe!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer 🧑‍💻</h3>
 
 <br/>
 
@@ -43,15 +43,6 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2> My Contributions </h2>
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -64,6 +55,5 @@
 
 <br/><br/>
 <hr/>
-
 
 <br/>
