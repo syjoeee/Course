@@ -1,12 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<h1 align="center">Hi 👋, I'm Ryan Joe</h1>
-<h3 align="center">Data Scientist / DevOps / ...</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%A6%81+%EB%A9%8B%EC%9F%81%EC%9D%B4%EC%82%AC%EC%9E%90+6%EA%B8%B0+%EC%A7%84%ED%96%89%EC%A4%91)](https://git.io/typing-svg)
 
-- 🔭 
-- 🦁 멋쟁이사자 6기 진행중
-- 📫 How to reach me **csy5501@gmail.com**
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +14,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=syjoeee&show_icons=true&theme=onedark)
 
