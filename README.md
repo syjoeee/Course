@@ -47,9 +47,10 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  
+  <h2> My Contributions </h2>
+  <br clear="both"/>
+    <img src="https://raw.githubusercontent.com/syjoeee/syjoeee/output/snake.svg" alt="Snake animation" />
+
   
   <br/><br/><br/>
 </div>
