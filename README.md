@@ -1,20 +1,12 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ryan+Joe!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;" />
 </h1>
 
-<h3 align="center">A passionate software developer 🧑‍💻</h3>
+<h3 align="center">Working 🧑‍💻</h3>
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **Django 멋쟁이 사자**
- 
- 🌱 I’m currently learning **Unity, Trading Algorithm**
- 
- </div>
- 
 <div align="center"> 
   <a href="mailto:csy5501@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -28,21 +20,6 @@
 </div>
 
  <hr/>
- 
-<h2 align="center">⚒️ Languages-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,postgres,latex" /><br>
-</div>
-<br/>
-
-<h2 align="center">⚒️ Frameworks-Skill-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=django,aws,docker,tensorflow,linux,unity" /><br>
-</div>
-
-<br/>
 
 <h2 align="center">⚡ Status ⚡</h2>
 <br>
