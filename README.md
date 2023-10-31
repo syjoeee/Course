@@ -4,7 +4,9 @@
 </h1>
 
 <h3 align="center">Working 🧑‍💻</h3>
-
+<body>
+    Write something down that I've learned today
+</body>
 <br/>
 
 <div align="center"> 
