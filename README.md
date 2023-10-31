@@ -3,10 +3,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;" />
 </h1>
 
-<h3 align="center">Working 🧑‍💻</h3>
-<body>
-    Write something down that I've learned today
-</body>
+<h3 align="center">Python Developer & DevOps 🧑‍💻</h3>
+<div align="center"> 
+    <body>
+        Write something down that I've learned today
+    </body>
+</div>
 <br/>
 
 <div align="center"> 
