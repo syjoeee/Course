@@ -1,8 +1,3 @@
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;" />
-</h1>
-
 <h3 align="center">Python Developer & DevOps 🧑‍💻</h3>
 <div align="center"> 
     <body>
@@ -25,7 +20,7 @@
 
  <hr/>
 
-<h2 align="center">⚡ Status ⚡</h2>
+<h2 align="center">✅ Status </h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
